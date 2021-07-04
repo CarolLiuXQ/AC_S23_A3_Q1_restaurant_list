@@ -18,13 +18,13 @@ AlphaCamp學期2-3，A3作業專案的Restaurant_List，
 
 ### 安裝與執行步驟
 
-1.開啟終端機(Terminal)cd 到存放專案本機位置並執行:
+1. 開啟終端機(Terminal)cd 到存放專案本機位置並執行:
 
 ```
 git clone https://github.com/CarolLiuXQ/S23_A3_Q1_restaurant_list.git
 ```
 
-2.初始
+2. 初始
 
 ```
 cd S23_A3_Q1_restaurant_list  //切至專案資料夾
@@ -34,12 +34,13 @@ cd S23_A3_Q1_restaurant_list  //切至專案資料夾
 npm install  //安裝套件
 ```
 
-3.
+3. 啟動專案
 
 ```
 npm run start  //執行程式
 ```
 
+4. 開始使用
 終端顯示 `Express is listening on http://localhost:3000` 即啟動完成，請至[http://localhost:3000](http://localhost:3000)開始使用程式
 
 
