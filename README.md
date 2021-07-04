@@ -12,8 +12,8 @@ AlphaCamp學期2-3，A3作業專案的Restaurant_List，
 
 ## Screenshots
 
-![首頁](./homepage.png)
-![詳細](./detail.png)
+![首頁](./homepage.PNG)
+![詳細](./detail.PNG)
 
 
 ### 安裝與執行步驟
