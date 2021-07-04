@@ -1,6 +1,6 @@
 # AC學期2-3_A3_Q1_Restaurant_List
 
-AlphaCamp學期2-3，A3作業專案的Restaurant_List，
+AlphaCamp學期2-3，A3作業專案的Restaurant_List，  
 使用 Node.js , Express , express-handlebars 打造的餐廳美食網站。
 
 ## 功能描述
